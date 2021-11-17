@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5495d010-5847-b8a1-2542-edb7a456bbed"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Computational Neuroscience",
+  "course_description": "This course gives a mathematical introduction to neural coding and dynamics. Topics include convolution, correlation, linear systems, game theory, signal detection theory, probability theory, information theory, and reinforcement learning. Applications to neural coding, focusing on the visual system are covered, as well as Hodgkin-Huxley and other related models of neural excitability, stochastic models of ion channels, cable theory, and models of synaptic transmission.\n\nVisit the [Seung Lab](http://seunglab.org/) Web site.\n",
+  "department_numbers": [
+    "9",
+    "8"
+  ],
+  "extra_course_numbers": "9.912J,8.261J",
+  "primary_course_number": "9.29J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
